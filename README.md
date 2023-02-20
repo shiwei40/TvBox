@@ -8,7 +8,7 @@
 
 TvBox软件本身只是个空壳，相当于一个播放器，订阅内容需要自己添加，都是第三方进行打包提供下载。
 
-## 【推荐】衍生仓库：o0HalfLife0o大佬基于以上2个仓库的打包 
+## 【推荐】衍生仓库：o0HalfLife0o大佬的打包 
 
 [下载地址](https://github.com/o0HalfLife0o/TVBoxOSC )
 

@@ -77,7 +77,6 @@ TvBox软件本身只是个空壳，相当于一个播放器，订阅内容需要
 |  骚零 | 2023-2-18 16:49:21 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt) |
 
 
-|  Gtot54 | 2023-2-18 16:49:21 |[地址](https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt) |
 
 
 

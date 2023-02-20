@@ -2,19 +2,30 @@
 
 所有数据均来自于网络，不保证可用性
 
-更新时间: 2023-01-27 17:21:00
+更新时间: 2023-02-20 13:21:00
 
-## 【推荐】 一影视
+官方仓：https://github.com/CatVodTVOfficial/TVBoxOSC
 
-[下载地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/一影视.apk)
+TvBox软件本身只是个空壳，相当于一个播放器，订阅内容需要自己添加，都是第三方进行打包提供下载。
 
-[使用说明](https://github.com/tv-player/apks/blob/main/README.md)
+## 【推荐】衍生仓库：o0HalfLife0o大佬基于以上2个仓库的打包 
 
-## 配置
+[下载地址](https://github.com/o0HalfLife0o/TVBoxOSC )
+
+[使用说明] 
+
+一定要开启存储权限！ 
+
+
+![image](https://user-images.githubusercontent.com/35305282/220026259-6cc1242f-f7d0-4297-8dff-634b3489076d.png)
+
+## 点播源配置（大部分内置直播源）
 
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
+|  骚零 | 2023-2-18 16:49:21 |[地址](https://dxawi.github.io/0/0.json) |
+|  Leezn | 2023-2-18 16:49:21 |[地址](https://leezn.github.io/TVBox/js.json) |
 |  ptest.json | 2022-12-08 06:49:21 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json) |
 |  j3zp.json | 2022-12-08 03:52:53 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/j3zp.json) |
 |  ikbb.json | 2022-12-07 17:49:55 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json) |
@@ -56,6 +67,17 @@
 |  cks2K01.json | 2022-09-02 17:01:53 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/cks2K01.json) |
 |  q73m.json | 2022-09-01 14:40:01 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/q73m.json) |
   
+
+
+
+
+##直播源地址（支持txt、m3u格式）
+
+
+|  骚零 | 2023-2-18 16:49:21 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt) |
+
+
+|  Gtot54 | 2023-2-18 16:49:21 |[地址](https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt) |
 
 
 

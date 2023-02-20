@@ -29,17 +29,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "曼联",
-            "name": "曼联(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/shiwei40/TvBox/main/kids3.json"
-        },
-        {
+                {
             "key": "Voflix",
             "name": "Voflix(爬虫)",
             "type": 3,

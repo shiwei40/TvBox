@@ -26,6 +26,7 @@ TvBox软件本身只是个空壳，相当于一个播放器，订阅内容需要
 |  ----  | ----  |----  |
 |  骚零 | 2023-2-18 16:49:21 |[地址](https://dxawi.github.io/0/0.json) |
 |  Leezn | 2023-2-18 16:49:21 |[地址](https://leezn.github.io/TVBox/js.json) |
+|  Liucn | 2023-2-18 16:49:21 |[地址](https://raw.liucn.cc/box/m.json) |
 |  ptest.json | 2022-12-08 06:49:21 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json) |
 |  j3zp.json | 2022-12-08 03:52:53 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/j3zp.json) |
 |  ikbb.json | 2022-12-07 17:49:55 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json) |

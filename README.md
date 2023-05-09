@@ -24,6 +24,7 @@ TvBox软件本身只是个空壳，相当于一个播放器，订阅内容需要
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
+|  纯看球源   | 2023-05-09  |[地址](https://pastebin.com/raw/ABA82qDP)  |
 |  骚零 | 2023-2-18 16:49:21 |[地址](https://dxawi.github.io/0/0.json) |
 |  Leezn | 2023-2-18 16:49:21 |[地址](https://leezn.github.io/TVBox/js.json) |
 |  Liucn | 2023-2-18 16:49:21 |[地址](https://raw.liucn.cc/box/m.json) |
@@ -66,7 +67,7 @@ TvBox软件本身只是个空壳，相当于一个播放器，订阅内容需要
 |  cksT3.txt | 2022-09-04 13:05:39 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/cksT3.txt) |
 |  pyniu.txt | 2022-09-04 07:32:12 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyniu.txt) |
 |  cks2K01.json | 2022-09-02 17:01:53 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/cks2K01.json) |
-|  q73m.json | 2022-09-01 14:40:01 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/q73m.json) |
+|  q73m.json（ad） | 2022-09-01 14:40:01 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/q73m.json) |
   
 
 
